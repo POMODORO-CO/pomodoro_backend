@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+    "serve": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/POMODORO-CO/pomodoro_backend/issues"
   },
-  "homepage": "https://github.com/POMODORO-CO/pomodoro_backend#readme"
+  "homepage": "https://github.com/POMODORO-CO/pomodoro_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
