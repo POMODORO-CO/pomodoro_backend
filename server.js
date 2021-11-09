@@ -1,1 +1,8 @@
-proyecto pomodoro back end
+
+
+
+//proyecto pomodoro back end
+
+//cosas TODO: 
+//qweqwe
+
