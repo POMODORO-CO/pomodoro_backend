@@ -1,0 +1,20 @@
+{
+  "name": "pomodoro_backend",
+  "version": "1.0.0",
+  "description": "backend for project management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POMODORO-CO/pomodoro_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POMODORO-CO/pomodoro_backend/issues"
+  },
+  "homepage": "https://github.com/POMODORO-CO/pomodoro_backend#readme"
+}
