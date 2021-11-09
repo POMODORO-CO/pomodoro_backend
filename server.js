@@ -1,5 +1,11 @@
+
+
+
+//proyecto pomodoro back end
+
 //cosas TODO: 
 //qweqwe
+
 const express=require('express');
 const app=express();
 
@@ -8,3 +14,4 @@ app.use('/',(req,res)=>{
 });
 
 app.listen(4000);
+
